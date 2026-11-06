@@ -1,6 +1,6 @@
 cask "buddr" do
-  version "0.1"
-  sha256 "5912c17b754e71a149c270d4a7506b259a7a9eac97b4ad747b56418247939676"
+  version "0.2"
+  sha256 "78a7a8a9a39f64475db022901b522f8844c569423fb19368a66b6bf9d0f34eab"
 
   url "https://github.com/jsyrovy/buddr/releases/download/v#{version}/Buddr-#{version}.zip"
   name "Buddr"
